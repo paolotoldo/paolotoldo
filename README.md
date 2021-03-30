@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paolotoldo&label=Profile%20views&color=0e75b6&style=flat" alt="paolotoldo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/paolotoldo" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/paolotoldo?logo=twitter&style=for-the-badge" alt="https://twitter.com/paolotoldo" /></a> </p>
-
 - 🔭 I’m currently working on **web scraping tools**
 
 - 🌱 I’m currently learning **swift and vue.js**
